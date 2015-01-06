@@ -2,6 +2,8 @@ text-envelopes
 ==============
 
 Excutables and the sources are currently available for download on  http://www.unchartedcharters.com
+Two .avi samples are on Youtube: https://www.youtube.com/watch?v=uLiNYzG81MA and 
+https://www.youtube.com/watch?v=QcRm3X3qA1A
 
 This GitHub repository serves as a stub.
 
